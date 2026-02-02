@@ -1,0 +1,6 @@
+order_id,city,region,delay_days,status
+101,"New York","North America",3,Late
+102,London,Europe,0,On-Time
+103,"New York","North America",5,Late
+106,Mumbai,Asia,0,On-Time
+110,Tokyo,Asia,4,Late
